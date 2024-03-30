@@ -1,0 +1,40 @@
+---
+title: "Focus on what is importantly wrong with models, all of them are wrong but they can be useful."
+title-block-banner: true
+thanks: "Available at: https://github.com/yunzhaol/all_models_wrong.git "
+author: "Yunzhao Li"
+date: "March 30, 2024"
+date-format: long
+format: pdf
+toc: false
+number-sections: true
+bibliography: reference.bib
+---
+
+Learning in science is a continuous iterative cycle of theory and practice. This approach necessitates a constant balance between theory-guided practice and practice-based theory modification; it is neither a theory-based pipe dream nor an aimless accumulation of facts from practice[@Box1976]. 
+
+Unrestricted feedback channels are necessary for scientific iteration to be effective. Feedback loops demonstrate the importance of mistake signals for learning and development, such as differences between theoretical expectations and actual observations. To find, identify, and take advantage of these error signals, as well as to face and rectify their own mistakes, requires adaptability and bravery on the part of good scientists. Scientists should maintain objectivity and self-criticism and should not become romanticized with their models, as Picasso did, as demonstrated by Bacon.
+
+Because all models are inherently simplified, they cannot be made more complicated in an attempt to find the "correct" model. In the footsteps of William of Ockham, scientists ought to look for succinct and effective explanations for natural events. A brilliant scientist is one who can build models that are inspiring but simple, while mediocrity is frequently indicated by over-complexity and over-parameterization.
+
+Since there are flaws in every model, scientists should be cautious about making "important mistakes". Ignoring the larger mistakes ("tigers") in favor of concentrating on the smaller ones ("mice"). Scientists must be able to identify and concentrate on mistakes that significantly affect both theoretical and practical outcomes.
+
+Real-world realities have no bearing on pure mathematics, which is only concerned with logical derivation. We build models based on real-world assumptions when applying math to disciplines like statistics and physics, even if we are aware that these assumptions are not totally accurate. For instance, statisticians and physicists can nonetheless derive practical approximations that are in accordance with reality even if they are well aware that precisely straight lines or completely normal distributions do not exist in nature. This demonstrates that while logical deductions are crucial in statistics, their premises and conclusions do not accurately reflect the state of nature. Therefore, unless we put any statistical technique we discover into practice, we cannot know for sure whether it is valid.
+
+All in all, these components highlight the dynamic nature of scientific inquiry as a process that combines theory and practice. To continuously push the boundaries of scientific knowledge, scientists must be open-minded and adaptable, pay attention to and fix serious flaws in theoretical models, and work through theory iterations between theory and practice. Additionally stressed were the value of using mathematical tools in scientific research, their limitations, and the necessity of keeping models simple.
+
+Theory and practice must often interact for scientific advancement. While practice offers the tools of testing theoretical hypotheses and advancing theories, theories provide the foundation for explanations and predictions about the natural world. For instance, experimental physics must frequently be validated in order for theoretical physics to advance, and real data analysis is necessary to assess the viability of statistical ideas.
+
+When current theories are unable to account for newly discovered experimental or observational evidence, scientists may be forced to suggest new theories or modify preexisting ones in the iterative process of theory and practice. This process, which is fundamental to scientific advancement, makes it easier to produce new hypotheses and increase the body of knowledge in the field.
+
+Scientists aim to simplify the intricacies of the real world while capturing the key characteristics of events in their models. Reliable models are able to explain current data or forecast observations in the future with accuracy.
+
+Model Testing and Revision: After a model is constructed, it must be put to the test using observational or experimental data. The model needs to be adjusted if the predictions do not match the actual observations. This could entail altering the model's underlying assumptions, including fresh variables, or completely reevaluating the model's design.
+
+A valuable tool for building and evaluating scientific models is mathematics. It enables scientists to generate testable predictions and provide accurate, rigorous descriptions of hypotheses.
+
+Scientists must be aware of the limitations of mathematical models even if mathematics is a vital tool in scientific study. Since a model's assumptions can differ from reality, scientists must constantly verify the validity and accuracy of the model by contrasting its predictions with actual data.
+
+These facets of scientific methodology highlight the dynamic and iterative nature of scientific inquiry as well as the necessity of closely integrating theory and practice in order to advance science. Scientists need to be critical thinkers who recognize that every model has its limitations and are always challenging and refining theories. Scientists are able to increase our comprehension of the natural world and create more practical tools and strategies to deal with problems in the actual world by iteratively improving their work.
+
+# References
